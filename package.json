@@ -1,0 +1,12 @@
+{
+  "id": "pendulums",
+  "name": "Pendulums",
+  "version": "1.0.0",
+  "description": "Nextdoor",
+  "main": "index.js",
+  "author": "Michael Thomas <michaelhthomas@outlook.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.pendulums.io"
+  }
+}
